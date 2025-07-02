@@ -4,3 +4,10 @@ body{
     text-align: justify;
     font-size: 30px;
 }
+
+h1{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    font_size: 40px;
+}
